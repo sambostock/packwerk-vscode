@@ -51,7 +51,7 @@
     ],
     "configuration": {
       "type": "object",
-      "title": "Packwerk-VScode configuration",
+      "title": "Packwerk",
       "properties": {
         "ruby.packwerk.executable": {
           "type": "string",
